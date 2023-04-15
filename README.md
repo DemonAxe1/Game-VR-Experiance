@@ -34,9 +34,12 @@ right. The user can also look up and down by looking up and down with the hardwa
 <h2>Program walk-through:</h2>
 
 <p align="center">
+ 
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20walking%20pic.PNG?raw=true)](https://youtu.be/VnOuhUtfzFA)
+
 
 Launch the program, prompted to pick an option: <br/>
-<img src="https://youtu.be/vt5fpE0bzSY).png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://youtu.be/vt5fpE0bzSY.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 <br />
 Results are printed and the user is prompted to go again:  <br/>
