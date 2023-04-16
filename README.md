@@ -2,6 +2,8 @@
 <h1>Kingsisle Games VR Experiance!</h1>
 <h1>!!!!PLEASE DO NOT SHARE THIS CONTENT WITH ANYONE!!!!</h1>
 
+<p align="center">
+<img src="https://github.com/DemonAxe1/img/blob/main/VR%20Wizard101%20walking%20thumb.PNG?raw=true.png"  height="20%" width="20%" alt="Disk Sanitization Steps"/> 
 <h2>Description</h2>
 This is hardware using an Arduino to create a VR controller system. Movement is tracked by a mechanical treadmill,
 important game buttons are mapped to finger controls that are located on the left hand, 
@@ -20,13 +22,13 @@ right. The user can also look up and down by looking up and down with the hardwa
 
 - <b>Arduino</b> 
 <h2>Hardware</h2>
-- <b>Arduino Micro</br> 
-- <b>TTP223 Capacitive touch sensor switch</br> 
+- <b>Arduino Micro x2</br> 
+- <b>TTP223 Capacitive touch sensor switch x5</br> 
 - <b>Manual Treadmill</br> 
 - <b>Phone VR Headset Housing</br> 
-- <b>GY-521 MPU-6050</br>
+- <b>GY-521 MPU-6050 x1</br>
 - <b>Bluetooth Dongle</br> 
-- <b>Small Breadboards</br> 
+- <b>Small Breadboards x3</br> 
 
 <h2>Environments Used </h2>
 
@@ -47,8 +49,8 @@ right. The user can also look up and down by looking up and down with the hardwa
  <h2>VR Headset DEMO Preview</h2></br>
  
  [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Head%20Demon%20Thumb.PNG?raw=true)](https://youtu.be/bpHyXMRcZ9g)
-
-
+ 
+<p align="center">
 The Arduino board controls the player’s movement when the player is in VR. This connects to a gyroscope (only using ground, power, SDA, and SCL connections) and a toggle switch on the other side of the headset: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/tr%20Arduino%20headset%20wiring.jpg?raw=true.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
@@ -59,10 +61,6 @@ This picture shows all the connections on the Arduino board that control all the
 <br />
 This is a backup shot showing how the touch sensors are mounted onto the fingers of the user, and how the cables rout out of the Arduino box: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/tr%20VR%20Tread%20arduino%20and%20Touch%20sensors.jpg?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
-<img src="https://imgur.com/2YPuUDB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
