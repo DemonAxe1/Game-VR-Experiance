@@ -39,15 +39,15 @@ right. The user can also look up and down by looking up and down with the hardwa
 
 
 Launch the program, prompted to pick an option: <br/>
-<img src="https://youtu.be/vt5fpE0bzSY.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://github.com/DemonAxe1/img/blob/main/tr%20Arduino%20headset%20wiring.jpg?raw=true.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 <br />
 Results are printed and the user is prompted to go again:  <br/>
-<img src="https://imgur.com/VuNocrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DemonAxe1/img/blob/main/tr%20Treadmill%20arduino%20setup.jpg?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Another option is selected: <br/>
-<img src="https://imgur.com/amYKXml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DemonAxe1/img/blob/main/tr%20VR%20Tread%20arduino%20and%20Touch%20sensors.jpg?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
