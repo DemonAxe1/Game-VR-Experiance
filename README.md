@@ -1,5 +1,5 @@
-# Game-VR-Experiance
-<h1>Kingsisle Games VR Experiance!</h1>
+# Game-VR-Experience
+<h1>Kingsisle Games VR Experience!</h1>
 <h1>!!!!PLEASE DO NOT SHARE THIS CONTENT WITH ANYONE!!!!</h1>
 
 <p align="center">
@@ -8,8 +8,7 @@
 This is hardware using an Arduino to create a VR controller system. Movement is tracked by a mechanical treadmill,
 important game buttons are mapped to finger controls that are located on the left hand, 
 and the mouse movement is simulated using a WII controller with a script that makes it act exactly like a mouse.
-The biggest part is the headset, which uses another Arduino that mainly works with a gyroscope that calculates movement and rotation
-so simulate mouse movement. This is extremely useful when the player in Wizard101 or Pirate101 is in fake first person
+The biggest part is the headset, which uses another Arduino that mainly works with a gyroscope that calculates movement and rotation to simulate mouse movement. This is extremely useful when the player in Wizard101 or Pirate101 is in fake first person
 (this is achieved by walking backward in game till the character is out of view and then holding down the mouse button)
 When fake first-person is combined with the simulated mouse movement of the gyroscope this simulates camera and body movement 
 in the game. This means that the user walking on the treadmill can move around the world by just turning his head left and 
