@@ -40,15 +40,15 @@ right. The user can also look up and down by looking up and down with the hardwa
  
  <h2>Full Demo Preview: (NOT DONE)</h2></br>
  
- [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20walking%20pic.PNG?raw=true)](https://youtu.be/VnOuhUtfzFA){:target="_blank" rel="noopener"}
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20walking%20pic.PNG?raw=true)](https://youtu.be/VnOuhUtfzFA)
  
  <h2>Walking and Mouse DEMO Preview</h2></br>
  
- [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Walking%20and%20mouse%20Demo%20Thumb.PNG?raw=true)](https://youtu.be/g4vUEoqhlgo){:target="_blank" rel="noopener"}
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Walking%20and%20mouse%20Demo%20Thumb.PNG?raw=true)](https://youtu.be/g4vUEoqhlgo)
  
  <h2>VR Headset DEMO Preview</h2></br>
  
- [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Head%20Demon%20Thumb.PNG?raw=true)](https://youtu.be/bpHyXMRcZ9g){:target="_blank" rel="noopener"}
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Head%20Demon%20Thumb.PNG?raw=true)](https://youtu.be/bpHyXMRcZ9g)
  
 <p align="center">
 The Arduino board controls the player’s movement when the player is in VR. This connects to a gyroscope (only using ground, power, SDA, and SCL connections) and a toggle switch on the other side of the headset: <br/>
