@@ -1,5 +1,6 @@
 # Game-VR-Experiance
 <h1>Kingsisle Games VR Experiance!</h1>
+<h1>!!!!PLEASE DO NOT SHARE THIS CONTENT WITH ANYONE!!!!</h1>
 
 <h2>Description</h2>
 This is hardware using an Arduino to create a VR controller system. Movement is tracked by a mechanical treadmill,
@@ -35,18 +36,28 @@ right. The user can also look up and down by looking up and down with the hardwa
 
 <p align="center">
  
+ <h2>Full Demo Preview: (NOT DONE)</h2></br>
+ 
  [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20walking%20pic.PNG?raw=true)](https://youtu.be/VnOuhUtfzFA)
+ 
+ <h2>Walking and Mouse DEMO Preview</h2></br>
+ 
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Walking%20and%20mouse%20Demo%20Thumb.PNG?raw=true)](https://youtu.be/g4vUEoqhlgo)
+ 
+ <h2>VR Headset DEMO Preview</h2></br>
+ 
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20Head%20Demon%20Thumb.PNG?raw=true)](https://youtu.be/bpHyXMRcZ9g)
 
 
-Launch the program, prompted to pick an option: <br/>
+The Arduino board controls the player’s movement when the player is in VR. This connects to a gyroscope (only using ground, power, SDA, and SCL connections) and a toggle switch on the other side of the headset: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/tr%20Arduino%20headset%20wiring.jpg?raw=true.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 <br />
-Results are printed and the user is prompted to go again:  <br/>
+This picture shows all the connections on the Arduino board that control all the movement, turning left and right, interaction buttons, and Fake FP macro toggle:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/tr%20Treadmill%20arduino%20setup.jpg?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Another option is selected: <br/>
+This is a backup shot showing how the touch sensors are mounted onto the fingers of the user, and how the cables rout out of the Arduino box: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/tr%20VR%20Tread%20arduino%20and%20Touch%20sensors.jpg?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
