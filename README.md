@@ -40,7 +40,7 @@ right. The user can also look up and down by looking up and down with the hardwa
  
  <h2>Full Demo Preview: (NOT DONE)</h2></br>
  
- [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20walking%20pic.PNG?raw=true)](https://youtu.be/VnOuhUtfzFA)
+ [![Watch the video](https://github.com/DemonAxe1/img/blob/main/VR%20walking%20pic.PNG?raw=true)](https://youtu.be/VnOuhUtfzFA) 
  
  <h2>Walking and Mouse DEMO Preview</h2></br>
  
